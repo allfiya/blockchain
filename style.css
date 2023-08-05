@@ -1,0 +1,67 @@
+.head-link {
+  background-image: linear-gradient(
+    to right,
+    rgb(15, 24, 44),
+    rgb(11, 51, 82),
+    rgb(18, 103, 175),
+    rgb(23, 89, 218),
+    rgb(18, 103, 175),
+    rgb(11, 51, 82),
+    rgb(15, 24, 44)
+  );
+}
+.head-link:hover {
+  background-image: linear-gradient(
+    to right,
+    rgb(7, 13, 23),
+    rgb(8, 50, 82),
+    rgb(11, 48, 112),
+    rgb(8, 50, 82),
+    rgb(7, 13, 23)
+  );
+}
+.gradient-fluid{
+    background-image: url(https://www.blockchain.com/static/img/home/home-hero-gradient.svg);
+    background-size: cover;
+    background-position: center;
+}
+.email-btn::placeholder{
+    color: white;
+}
+.app-col{
+    background-image: url(https://www.blockchain.com/static/img/home/homepage-app-shapes-bg@2x.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: bottom;
+}
+.exchange-col{
+  background-image: url(https://www.blockchain.com/static/img/home/homepage-exchange-shapes-bg@2x.png);
+  background-size: cover;
+  background-position: left center;
+
+}
+.institutional-col{
+  background-image: url(https://www.blockchain.com/static/img/home/homepage-institutional-shapes-bg@2x.png);
+  background-size: cover;
+  background-position: left center;
+}
+.explore-col{
+  background-image: url(https://www.blockchain.com/static/img/home/homepage-explorer-shapes-bg@2x.png);
+  background-size: cover;
+  background-position: left center;
+}
+.banner-div{
+  background-color: black;
+  background-image: url(https://www.blockchain.com/static/img/banner/banner-bg.svg);
+  background-size: cover;
+}
+.insta-logo{
+  background-image: url(blockchain/images/instagram-color-icon.svg);
+  background-size: cover;
+  background-position: center;
+}
+.google-logo{
+  background-image: url(blockchain/images/Google_Play-Icon-Logo.wine.svg);
+  background-size: cover;
+  background-position: center;
+}
